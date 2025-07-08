@@ -1,9 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Testing Login Accounts
+## Deployment
+https://next-js-room-booking.vercel.app/
 
+### Testing Login Accounts
 email: thomas@gmail.com
-pwd: 12345678
+
+password: 12345678
 
 ## Getting Started
 
